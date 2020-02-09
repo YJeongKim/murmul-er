@@ -11,17 +11,26 @@
 - ~~[머물-러 사이트로 이동하기](http://www.murmul-er.com)~~ - 현재 서비스 중단 상태
 
 - 편리하고 안전한 거래를 돕기 위한 **임대차 및 전대차 직거래 중개 플랫폼**
+
 - 단기 임대에 초점을 맞추어 잠시 머무르는 사람이라는 뜻의 '머물-러'
+
 - 전대차 계약이란 ?
+
   - 방을 임대한 세입자가 임차물을 다시 임대하는 계약을 의미
+
 - 핵심 타겟
+
   - 단기로 머물 방을 구하고 싶은 대학생 혹은 직장인
+
   - 방학 중 혹은 학기 중에 사용하지 않는 자취방을 빌려주거나 내놓고 싶은 대학생
+
   - 장기간 출장이나 사정상 비거나 남는 방을 활용하고 싶은 직장인
 
 <br>
 
 #### 소개 영상
+
+###### 클릭해보세요
 
 [![Video Label](https://img.youtube.com/vi/vMjjhrqZhC4/0.jpg)](https://www.youtube.com/watch?v=vMjjhrqZhC4&t=0s)
 
@@ -66,11 +75,7 @@
 
 3. 메신저 톡 보내기 기능
 
-   
-
 4. 관심목록 추가 기능
-
-   마이페이지 서비스에서 확인
 
 5. 신고하기 기능
 
@@ -100,7 +105,7 @@
 
 2. 리뷰 정렬 기능
 
-   : 최신순 / 별점순 / 방음 지수 순 / 방충 지수 순
+   : 최신 순 / 별점 순 / 방음지수 순 / 방충지수 순
 
 3. 리뷰 작성 기능
 
@@ -120,7 +125,9 @@
 
    ![contract_manage](https://user-images.githubusercontent.com/33328991/74106803-04318100-4bad-11ea-9541-2fced1487d5d.png)
 
-   <img src="https://user-images.githubusercontent.com/33328991/74106805-07c50800-4bad-11ea-8f0b-1362be813dc6.png" alt="contract_detail" width="80%" />
+   <p align="center">
+       <img src="https://user-images.githubusercontent.com/33328991/74106805-07c50800-4bad-11ea-8f0b-1362be813dc6.png" alt="contract_detail" width="75%" />
+   </p>
 
 4. 개인정보 관리 기능
 
@@ -148,9 +155,12 @@
 
 #### # 고객센터 서비스
 
-1. 공지사항 목록보기 / 상세보기 기능
-2. FAQ 목록보기 / 상세보기 기능
+1. 공지사항 목록보기 및 상세보기 기능
+
+2. FAQ 목록보기 및 상세보기 기능
+
 3. 1:1문의 작성 및 등록 기능
+
 4. 이용약관 제공
 
 <br>
